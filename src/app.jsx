@@ -1,4 +1,5 @@
-import React, { lazy, Suspense } from 'react';
+import React, { Suspense } from 'react';
+import NavigationRoutes from './navigation/NavigationRoutes';
 import Spinner from '../misc/Spinner';
 
 export const Loading = () => (
@@ -18,7 +19,7 @@ const App = () => {
   return (
     <>
       <Suspense fallback={<Loading />}>
-        <div>hello world</div>
+        <NavigationRoutes />
       </Suspense>
     </>
   );
