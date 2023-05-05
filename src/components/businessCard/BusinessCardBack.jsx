@@ -23,7 +23,7 @@ const BusinessCardBack = () => {
         <div className="business-card-back-bottom">
           {BusinessCardIconData.map((item, index) => {
             return (
-              <a key={index} href={item.href} target={item.target}>
+              <a key={index} href={item.href} target="_blank">
                 {item.icon}
               </a>
             );
