@@ -2,6 +2,7 @@ import React from 'react';
 import {
   FaFacebook,
   FaFilePdf,
+  FaGithub,
   FaInstagramSquare,
   FaLinkedin,
   FaTiktok,
@@ -22,6 +23,10 @@ const BusinessCardIconData = [
   {
     href: 'https://www.linkedin.com/in/cjones1827/',
     icon: <FaLinkedin color="#ba68c8" size="2rem" />,
+  },
+  {
+    href: 'https://www.github.com/cjones-87/',
+    icon: <FaGithub color="#ba68c8" size="2rem" />,
   },
   {
     href: 'https://www.instagram.com/seejonesengineer/',
