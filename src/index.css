@@ -1,5 +1,5 @@
 body {
-  background-color: #1a1a1a;
+  background-color: #ba68c8;
 }
 
 .business-card-container {
@@ -33,14 +33,14 @@ body {
 }
 
 .business-card-front {
-  background: linear-gradient(28.6deg, #bebebe 50%, #502e93 0);
+  background: linear-gradient(28.6deg, #bebebe 50%, indigo 0);
   display: flex;
   position: absolute;
 }
 
 .business-card-left {
   margin-top: -3.5rem;
-  text-shadow: 1px 1px 1px #502e93;
+  text-shadow: 1px 1px 1px indigo;
 }
 
 .business-card-left h4 {
@@ -71,7 +71,7 @@ body {
   background-color: #1a1a1a;
   border-radius: 30px;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
-  color: #502e93;
+  color: indigo;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -99,7 +99,7 @@ h4 {
 }
 
 .business-card-back {
-  background: linear-gradient(-28.6deg, #502e93 50%, #bebebe 0);
+  background: linear-gradient(-28.6deg, indigo 50%, #bebebe 0);
   color: #ba68c8;
   text-shadow: 2px 2px 2px #1a1a1a;
   transform: rotateY(180deg);
