@@ -28,26 +28,26 @@ const BusinessCardIconData = [
     href: 'https://www.github.com/cjones-87/',
     icon: <FaGithub color="#ba68c8" size="2rem" />,
   },
-  {
-    href: 'https://www.instagram.com/seejonesengineer/',
-    icon: <FaInstagramSquare color="#ba68c8" size="2rem" />,
-  },
+  // {
+  //   href: 'https://www.instagram.com/seejonesengineer/',
+  //   icon: <FaInstagramSquare color="#ba68c8" size="2rem" />,
+  // },
   {
     href: 'https://twitter.com/cjonesengineer1',
     icon: <FaTwitter color="#ba68c8" size="2rem" />,
   },
-  {
-    href: 'https://www.youtube.com/channel/UCIgDLvCc7d6pX1LrhgwLZMw',
-    icon: <FaYoutube color="#ba68c8" size="2rem" />,
-  },
-  {
-    href: 'https://www.tiktok.com/@seejonesengineer',
-    icon: <FaTiktok color="#ba68c8" size="2rem" />,
-  },
-  {
-    href: 'https://www.facebook.com/seejonesengineer/',
-    icon: <FaFacebook color="#ba68c8" size="2rem" />,
-  },
+  // {
+  //   href: 'https://www.youtube.com/channel/UCIgDLvCc7d6pX1LrhgwLZMw',
+  //   icon: <FaYoutube color="#ba68c8" size="2rem" />,
+  // },
+  // {
+  //   href: 'https://www.tiktok.com/@seejonesengineer',
+  //   icon: <FaTiktok color="#ba68c8" size="2rem" />,
+  // },
+  // {
+  //   href: 'https://www.facebook.com/seejonesengineer/',
+  //   icon: <FaFacebook color="#ba68c8" size="2rem" />,
+  // },
 ];
 
 export default BusinessCardIconData;
