@@ -21,11 +21,9 @@ const BusinessCardFront = () => {
         />
 
         <h4>
-          Software engineering is an&nbsp;<span>artform</span>. You can
-          have&nbsp;
-          <strong>good, fast, & cheap</strong>&nbsp;. But only&nbsp;
-          <strong>two</strong>
-          &nbsp;of those.
+          <strong>Transforming</strong> ideas into <strong>immersive</strong>{' '}
+          web experiences by <strong>harmonizing</strong>&nbsp;design and
+          functionality in web <strong>solutions.</strong>
         </h4>
       </div>
 
