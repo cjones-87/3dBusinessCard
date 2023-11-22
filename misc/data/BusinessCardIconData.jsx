@@ -9,24 +9,28 @@ import {
   FaTwitter,
   FaYoutube,
 } from 'react-icons/fa';
-import { MdOutlineAlternateEmail } from 'react-icons/md';
+import { MdAssignmentInd, MdOutlineAlternateEmail } from 'react-icons/md';
 
 const BusinessCardIconData = [
   {
-    href: 'https://www.seejonesengineer.com/01CJsSWEPortfolioResume.pdf',
-    icon: <FaFilePdf color="#ba68c8" size="2rem" />,
+    href: 'https://www.seejonesengineer.com/CJonesSWEPortfolioResume2023.pdf',
+    icon: <FaFilePdf color='#ba68c8' size='2rem' />,
   },
   {
     href: 'mailto:cj@seejonesengineer.com',
-    icon: <MdOutlineAlternateEmail color="#ba68c8" size="2rem" />,
+    icon: <MdOutlineAlternateEmail color='#ba68c8' size='2rem' />,
+  },
+  {
+    href: 'https://www.seejonesengineer.com/',
+    icon: <MdAssignmentInd color='#ba68c8' size='2rem' />,
   },
   {
     href: 'https://www.linkedin.com/in/cjones1827/',
-    icon: <FaLinkedin color="#ba68c8" size="2rem" />,
+    icon: <FaLinkedin color='#ba68c8' size='2rem' />,
   },
   {
     href: 'https://www.github.com/cjones-87/',
-    icon: <FaGithub color="#ba68c8" size="2rem" />,
+    icon: <FaGithub color='#ba68c8' size='2rem' />,
   },
   // {
   //   href: 'https://www.instagram.com/seejonesengineer/',
@@ -34,7 +38,7 @@ const BusinessCardIconData = [
   // },
   {
     href: 'https://twitter.com/cjonesengineer1',
-    icon: <FaTwitter color="#ba68c8" size="2rem" />,
+    icon: <FaTwitter color='#ba68c8' size='2rem' />,
   },
   // {
   //   href: 'https://www.youtube.com/channel/UCIgDLvCc7d6pX1LrhgwLZMw',
