@@ -13,7 +13,7 @@ import { MdAssignmentInd, MdOutlineAlternateEmail } from 'react-icons/md';
 
 const BusinessCardIconData = [
   {
-    href: 'https://www.seejonesengineer.com/CJonesSWEPortfolioResume2023.pdf',
+    href: 'https://www.seejonesengineer.com/CJ_Jones_II_Portfolio_SWE_2024.pdf',
     icon: <FaFilePdf color='#ba68c8' size='2rem' />,
   },
   {
